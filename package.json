@@ -1,0 +1,12 @@
+{
+  "name": "event-driven-order-service",
+  "version": "1.0.0",
+  "description": "Event-driven order service using Node.js",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
